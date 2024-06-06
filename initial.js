@@ -8,3 +8,7 @@ function sayName(){
 function isAbove(){
     return age >=18
 }
+
+function newFeatured(){
+    console.log('This is a new feat')
+}
