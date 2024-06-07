@@ -16,3 +16,6 @@ function newFeatcoming(){
     console.log('something is going to be change soon')
     console.log('this is a new feat we are currently working on')
 }
+function newFeatureadd(){
+    console.log('This is a new feature')
+}
