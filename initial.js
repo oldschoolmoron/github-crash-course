@@ -26,4 +26,5 @@ function newFeatureadd(){
 function newFeatureadCd(){
     console.log('This is a new feature C')
     console.log('This is a new feature C and it all just for practice')
+    console.log('This is a new commit d')
 }
