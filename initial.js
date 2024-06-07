@@ -13,5 +13,5 @@ function newFeatured(){
     console.log('This is a new feat')
 }
 function newFeatcoming(){
-    console.log('something is going to be changes')
+    console.log('something is going to be change soon')
 }
