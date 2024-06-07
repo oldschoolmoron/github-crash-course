@@ -11,6 +11,11 @@ function isAbove(){
 
 function newFeatured(){
     console.log('This is a new feat')
+<<<<<<< HEAD
     console.log('This is a new feat B')
 }
 
+}
+function newFeatcoming(){
+    console.log('something is going to be changes')
+}
