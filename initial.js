@@ -28,4 +28,6 @@ function newFeatureadCd(){
     console.log('This is a new feature C and it all just for practice')
     console.log('This is a new commit d')
     console.log('This is a new feat E')
+    console.log('This is a new feat E')
+    console.log('This is a new feat E')
 }
